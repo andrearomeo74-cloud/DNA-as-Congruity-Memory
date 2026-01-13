@@ -121,6 +121,12 @@ Its purpose is to offer a **foundational lens** for understanding biological mem
 
 ---
 
+## Documentation
+
+- **DNA as Structural Congruity Memory**  
+  `docs/01_dna_as_congruity_memory.md`  
+  A foundational document reframing DNA as a historical memory of admissible biological configurations rather than an optimized blueprint.
+
 ## License
 
 **Creative Commons BY-NC-SA 4.0**
